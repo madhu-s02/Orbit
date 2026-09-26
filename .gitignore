@@ -1,0 +1,5 @@
+venv/
+.venv/
+__pycache__/
+data_log.csv
+config.json
